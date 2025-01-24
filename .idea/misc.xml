@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/m450/m450-main/03 Testlevels/02_bank-vorgabe/02_bank-vorgabe/pom.xml" />
+        <option value="$PROJECT_DIR$/m450/m450-main/02 Teststrategie/bank-software-mvn/Uebung 03/pom.xml" />
+        <option value="$PROJECT_DIR$/m450/m450-main/02 Teststrategie/bank-software-mvn/bank-software-mvn/pom.xml" />
+        <option value="$PROJECT_DIR$/m450/m450-main/04 Abhängigkeiten/pom.xml" />
+        <option value="$PROJECT_DIR$/m450/m450-main/05 Automation/spring-boot-angular-basic-lw/spring-boot-angular-basic-lw2/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17_PREVIEW" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
